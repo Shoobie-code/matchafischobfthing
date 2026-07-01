@@ -1,4 +1,3 @@
 # matchafischobfthing
 
-has auto fish and stuff
-teleports too now
+has more cool stuff for fisch
